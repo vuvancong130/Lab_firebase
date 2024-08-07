@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "332203496517",
+    "project_id": "lab7-669d0",
+    "storage_bucket": "lab7-669d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332203496517:android:c57486ba578c3317af7f2c",
+        "android_client_info": {
+          "package_name": "com.labfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTsA04KRGW9z0hFXjrHFwofzz9whKNRik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
